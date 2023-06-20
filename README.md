@@ -4,7 +4,7 @@ I'm a rising second-year student at Florida State University studying Computer S
 
 ### Experience 📃
 - 🛩 Software Engineer Intern at Northrop Grumman (May 2023 - June 2023)
-- 🥷 Code Sensei at Code Ninjas (May 2022 - August 2022)
+- 🐱‍👤 Code Sensei at Code Ninjas (May 2022 - August 2022)
 
 ### Links 👾
 <a href="https://www.instagram.com/julianwsanchez/"><img src="img/instagram.png" width="30"></a> <a href="https://www.linkedin.com/in/julianwsanchez/"><img src="img/linkedin.png" width="30"></a> <a href="https://open.spotify.com/user/31nvmp25h2eqhcih2re43lwcsjee"><img src="img/spotify.png" width="30"></a>

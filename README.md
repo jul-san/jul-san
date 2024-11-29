@@ -1,11 +1,14 @@
-julianwsan [at] gmail [dot] com
+### Hi, I'm Julian! 🎃
 
-### Experience
-- **FSU Department of Computer Science** - Research Intern | (August 2024 - Present)
-- **MIT Lincoln Laboratory** - Summer Research Intern | (May 2024 - August 2024)
-- **DeVoe L. Moore Center** - Data Analytics Intern | (January 2024 - May 2024)
-- **Northrop Grumman** - Software Engineer Intern | (May 2023 - June 2023)
-- **Code Ninjas** - Instructor | (May 2022 - August 2022)
+I'm a third-year CS student exploring the many ways in which coding can be applied to various industries!
 
-### Links
-<a href="https://www.instagram.com/julianwsanchez/"><img src="img/instagram.png" width="30"></a> <a href="https://www.linkedin.com/in/julianwsanchez/"><img src="img/linkedin.png" width="30"></a> <a href="https://open.spotify.com/user/31nvmp25h2eqhcih2re43lwcsjee"><img src="img/spotify.png" width="30"></a>
+Currently, I'm working at:
+- 🌱 VitalTrack Health, a nutrition monitoring startup
+- 📚 FSU MakeX Laboratory w/ Dr. Te-Yen Wu on Human-Computer Interaction
+
+Previously, I've had the privilege to work as a:
+- 🧮 Summer Research Intern @ MIT Lincoln Laboratory
+- 📈 Data Visualization Intern @ The DeVoe L. Moore Center
+- 🚀 Software Engineering Intern @ Northrop Grumman
+
+Feel free to reach out to me at julianwsan [at] gmail [dot] com

@@ -1,5 +1,12 @@
 ### Hi, I'm Julian! 🎃
 
-I'm a third-year CS major at Florida State! Previously, I've worked at MIT Lincoln Laboratory and Northrop Grumman. This summer I'll be interning at Pfizer in NYC!
+I'm a fourth-year CS major at Florida State University (go ’Noles!). I mostly enjoy working in C++ and Python.
+
+### Experiences:
+- 🛰️ Johns Hopkins Applied Physics Laboratory
+- ⛽️ Syntech Systems
+- 🧬 Pfizer
+- 🧮 MIT Lincoln Laboratory
+- 🚀 Northrop Grumman
 
 Feel free to reach out to me at julianwsan [at] gmail [dot] com
